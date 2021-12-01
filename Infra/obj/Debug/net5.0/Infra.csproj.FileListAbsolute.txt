@@ -1,0 +1,15 @@
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\Infra.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\Infra.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\Infra.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\bin\Debug\net5.0\Infra.deps.json
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\bin\Debug\net5.0\Infra.dll
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\bin\Debug\net5.0\ref\Infra.dll
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\bin\Debug\net5.0\Infra.pdb
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\bin\Debug\net5.0\Core.dll
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\bin\Debug\net5.0\Core.pdb
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\Infra.csproj.CopyComplete
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\Infra.dll
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\ref\Infra.dll
+C:\Users\mjmde\Desktop\CommanderRepo\commercial Api\Infra\obj\Debug\net5.0\Infra.pdb
